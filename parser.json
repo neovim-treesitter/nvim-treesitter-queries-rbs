@@ -1,8 +1,7 @@
 {
   "url": "https://github.com/joker1007/tree-sitter-rbs",
   "semver": false,
-  "min_version": null,
-  "lang": "rbs",
+  "parser_version": "5282e2f36d4109f5315c1d9486b5b0c2044622bb",
   "location": null,
-  "max_version": null
+  "lang": "rbs"
 }
